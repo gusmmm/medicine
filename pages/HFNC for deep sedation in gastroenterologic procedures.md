@@ -54,3 +54,7 @@
 	- need for procedure interruption
 	- costs
 	- time
+- #[[ references]]
+	- [[@kimComparisonHighFlow2021]]
+	- [[@nayHighflowNasalOxygenation2021]]
+	-

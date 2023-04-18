@@ -11,11 +11,12 @@ tags:: #HFNC, [[deep sedation]], [[prone position]], #ERCP, [[gastroenterologic 
 - #sedation_protocol
 	- ((643e52bd-b491-4c2c-b80f-3ceded0045ad))
 # data collected
-	- hfnc-flow:: 50 
+	- type:: hfnc-data
+	  hfnc-flow:: 50 
 	  hfnc-fio2:: 100
 	  endpoints:: [[lowest oxygen saturation]]
 	  machine:: [[Optiflow THRIVE]] 
-	  procedure:: 
+	  procedure:: [[ERCP]] 
 	  sedation:: [[propofol]], [[fentanil]]
 # conclusions
 	- ((643e54d2-587f-4a71-8be6-e44a6bf4c22e))
