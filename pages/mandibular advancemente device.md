@@ -1,0 +1,3 @@
+- para manter a patência da via aérea e permitir um [[gastroenterologic procedure]] com oxigenio de alto fluxo
+- referido aqui [[@tengNovelMandibularAdvancement2019]]
+-

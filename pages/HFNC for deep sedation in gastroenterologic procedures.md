@@ -51,10 +51,36 @@
 	- sedation procedure
 	- dessaturation episodes
 	- need for airway intervention
+		- manter a patencia da via aerea
+			- p ex com um bucal [[Oxyguard]]
+			- com [[nasal airway device]]
+			- com um bocal modificado [[@tengNovelMandibularAdvancement2019]] usa no [[@tengHighFlowNasalCannula2019]]
 	- need for procedure interruption
 	- costs
 	- time
-- #[[ references]]
-	- [[@kimComparisonHighFlow2021]]
-	- [[@nayHighflowNasalOxygenation2021]]
+- # resultados
+	- escolher usar HFNC quando
+		- o risco de hipoxemia é elevado
+			- ASA >2
+			- BMI > 30
+			- idade > 60
+		- o procedimento é de risco elevado para hipoxemia
+			- CPRE
+	- manobras ou sistemas de manter a pantencia da via aerea
+	- usar FiO2 100?
+	- posicionamento
+		- [[prone position]] é mesmo necessária?
+			- TODO está associado a complicações?
+- # references
+	- RCT
+		- [[@kimComparisonHighFlow2021]]
+		- [[@nayHighflowNasalOxygenation2021]]
+		- [[@beHighflowOxygenOxygenating2022]]
+		- [[@leeImpactHighFlowNasal2022]]
+		- [[@tengHighFlowNasalCannula2019]]
+	- revisão
+		- [[@zhangEffectivenessHighflowNasal2022]]
+		- [[@doulberisHighflowConventionalNasal2022]]
+- # tables
+	- [[templates/hfnc-data]]
 	-
