@@ -78,9 +78,13 @@
 		- [[@beHighflowOxygenOxygenating2022]]
 		- [[@leeImpactHighFlowNasal2022]]
 		- [[@tengHighFlowNasalCannula2019]]
+		- [[@mazzeffiHighFlowNasalCannula2021]]
+		- [[@caHighflowStandardNasal2019]] #morbid_obesity
 	- revisão
 		- [[@zhangEffectivenessHighflowNasal2022]]
 		- [[@doulberisHighflowConventionalNasal2022]]
+	- retrospectivos
+		- [[@rHighflowNasalOxygen2016]]
 - # tables
 	- [[templates/hfnc-data]]
 	-
