@@ -58,6 +58,15 @@
 	- need for procedure interruption
 	- costs
 	- time
+	- necessidade de sedação mais profunda durante períodos
+		- maior estimulo algico
+		- inserção do endoscópio
+		- risco de apneia temporária
+	- doentes em risco de dessaturação
+		- obesos
+		- velhos
+		- doenças cronicas
+-
 - # resultados
 	- escolher usar HFNC quando
 		- o risco de hipoxemia é elevado
@@ -80,11 +89,18 @@
 		- [[@tengHighFlowNasalCannula2019]]
 		- [[@mazzeffiHighFlowNasalCannula2021]]
 		- [[@caHighflowStandardNasal2019]] #morbid_obesity
+		- [[@shuklaComparativeEvaluationEfficacy2021]]
+		- [[@thiruvenkatarajanEffectHighflowVs2022]] #obesity
 	- revisão
 		- [[@zhangEffectivenessHighflowNasal2022]]
 		- [[@doulberisHighflowConventionalNasal2022]]
+		- [[@khannaUtilityHighflowNasal2023]]
 	- retrospectivos
 		- [[@rHighflowNasalOxygen2016]]
+	- prospectivos
+		- [[@puenteHighflowNasalCannula2017]] #spanish #low_quality
+	- case series
+		- [[@leeUseHighflowNasal2018]] #low_quality
 - # tables
 	- [[templates/hfnc-data]]
 	-
