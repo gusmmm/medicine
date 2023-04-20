@@ -1,0 +1,4 @@
+- ![revista_spa_vol32_n1_2023.pdf](../assets/revista_spa_vol32_n1_2023_1681984926127_0.pdf)
+- normas de publicação e instruções aos autores
+	- ((64410dc4-c95a-4bb9-8aec-618f474dc122))
+-

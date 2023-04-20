@@ -1,5 +1,5 @@
 - # title
-	- High-Flow Nasal Cannula in Gastroenterology Deep Sedation - Optimizing Oxygenation and Patient Safety: A clinical perspective review.
+	- High-Flow Nasal Cannula in Gastroenterology Deep Sedation - Optimizing Oxygenation and Patient Safety: A clinical pragmatic review.
 - # Objective
 	- To conduct a comprehensive literature review on the use of high-flow nasal cannula #HFNC in gastroenterology deep sedation, with a focus on optimizing oxygenation and patient safety.
 - # Study Plan
@@ -66,6 +66,12 @@
 		- obesos
 		- velhos
 		- doenças cronicas
+	- anesthetic decision
+		- use HFNC with deep sedation VS use general anesthesia with [[VMI]]
+		- por motivos médicos VS devido ao procedimento
+		- ver [[@rHighflowNasalOxygen2016]]
+-
+	-
 -
 - # resultados
 	- escolher usar HFNC quando
@@ -80,6 +86,9 @@
 	- posicionamento
 		- [[prone position]] é mesmo necessária?
 			- TODO está associado a complicações?
+- #guidelines and recommendations of national European or world societies
+	- [[British Society of Gastroenterology]]
+	-
 - # references
 	- RCT
 		- [[@kimComparisonHighFlow2021]]

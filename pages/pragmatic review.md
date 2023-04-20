@@ -1,0 +1,18 @@
+- A pragmatic review is a type of [[systematic review]] that focuses on the practical aspects of a medical subject.
+- It aims to provide evidence-based recommendations for clinical practice by summarizing the available evidence in a way that is useful for clinicians.
+- In contrast to traditional systematic reviews, pragmatic reviews focus on real-world settings and are designed to be more applicable to clinical practice.
+- They are particularly useful for evaluating complex interventions or interventions that are difficult to standardize.
+- Medical journals often publish pragmatic reviews as they provide valuable information for clinicians and researchers.
+- Here are some steps to follow when writing a pragmatic review on the subject of HFNC for deep sedation
+	- Define the research question
+		- The first step is to define the research question that you want to answer. In this case, it would be something like “What is the effectiveness of HFNC for deep sedation?”
+	- Conduct a literature search
+		- Once you have defined your research question, you will need to conduct a literature search to find relevant studies. You can use databases such as PubMed or Cochrane Library to find studies that are relevant to your research question.
+		- Select studies
+			- After conducting your literature search, you will need to select studies that are relevant to your research question. You should include all relevant studies, regardless of their quality.
+		- Extract data
+			- Once you have selected your studies, you will need to extract data from them. This includes information such as study design, sample size, intervention used, and outcomes measured.
+		- Analyze data
+			- After extracting data from your studies, you will need to analyze it. This involves synthesizing the data from all of the studies and drawing conclusions based on the evidence.
+		- Write up your findings
+			- Finally, you will need to write up your findings in a way that is clear and concise. You should include a summary of the evidence and any recommendations for clinical practice

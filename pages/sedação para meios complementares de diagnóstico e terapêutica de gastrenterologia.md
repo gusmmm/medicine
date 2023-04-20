@@ -1,0 +1,3 @@
+- A técnica de colonoscopia é realizável habitualmente com um [[nível de sedação]] de grau 3, segundo a classificação da American Society of Anesthesiologists (#ASA ), enquanto a endoscopia digestiva alta necessita de uma sedação de grau 4, por vezes mesmo com níveis de inconsciência idênticos aos de técnicas de anestesia geral, consequentemente com riscos diferentes e acrescidos.
+	- #note acho que se enganaram e queriam dizer da [[European Society of Anaesthesiology]]
+	- #note ver doc [[Recomendações sobre procedimentos de sedação e analgesia do colégio de anestesiologia]]
