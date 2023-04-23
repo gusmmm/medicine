@@ -18,7 +18,10 @@ title:: @sidhuDeepSedationAnaesthesia2019
 		- ((6440fa4a-7514-40e4-9aa9-2c4f519fb4b5))
 - fala dos [[complex gastroenterologic procedures]]
 	- ![image.png](../assets/image_1681986346807_0.png)
-	-
+- [[modified STOP-BANG screening cheklist for OSA]]
+	- ((64457fdf-35cf-4163-bb10-71b72487577a))
+-
+-
 # conclusions
 	- ((6440f622-8285-42da-b685-3386803fb752))
 - appendix 1

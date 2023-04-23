@@ -1375,5 +1375,22 @@
                                    :height 1322.8349999999998}),
                           :page 3},
                :content {:text "STOP-BANG questionnaires can grade the severity of obstructive sleep apnoea (OSA). 12 13 It is therefore recommended that all patients being considered for sedation should also be screened for OSA. A modified STOP-BANG screening checklist for OSA prior to consideration of sedation is provided in"},
+               :properties {:color "yellow"}}
+              {:id #uuid "64457fdf-35cf-4163-bb10-71b72487577a",
+               :page 3,
+               :position {:bounding {:x1 163.890625,
+                                     :y1 82.078125,
+                                     :x2 447.949951171875,
+                                     :y2 99.078125,
+                                     :width 992.1266666666666,
+                                     :height 1322.8349999999998},
+                          :rects ({:x1 163.890625,
+                                   :y1 82.078125,
+                                   :x2 447.949951171875,
+                                   :y2 99.078125,
+                                   :width 992.1266666666666,
+                                   :height 1322.8349999999998}),
+                          :page 3},
+               :content {:text "Modified STOP-BANG screening checklist for OSA"},
                :properties {:color "yellow"}}],
- :extra {:page 3}}
+ :extra {:page 4}}

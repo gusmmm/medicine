@@ -1,0 +1,3 @@
+- ![image.png](../assets/image_1682274839084_0.png)
+	- REF [[chiumelloPracticalTrendsAnesthesia2020]] p108
+-
