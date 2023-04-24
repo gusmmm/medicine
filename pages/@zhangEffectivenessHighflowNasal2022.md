@@ -16,4 +16,5 @@ tags:: [[HFNC]], [[deep sedation]], [[gastroenterologic procedure]]
 # conclusions
 	- ((643e7ec3-0dbe-4b9d-8257-c6cba776b660))
 	- sugere que pode não ser tão eficaz em doentes de [[patients at risk of hypoxemia]] elevado
+	- Compared to SNC, HFNC not only reduce the incidence of hypoxemia but also reduce the requirements for airway interventions during sedated digestive endoscopy procedures, especially in patients at low risk for hypoxemia. In high risk of hypoxemia patients, there were no significant differences between the two oxygen administration techniques.
 -
