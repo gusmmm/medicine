@@ -31,3 +31,13 @@ file-path:: ../assets/riccio-christina-a-high-flow-versus-standard-nasal_1681827
   hl-page:: 3
   hl-color:: yellow
   id:: 643ea937-7eb5-466b-bc51-abfc9f38645e
+- colonoscopy
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: red
+  id:: 64469184-f337-471a-98bf-5cb7b33574cc
+- deep sedation
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 64469189-6ef9-4bdb-8149-9944d41bdab4

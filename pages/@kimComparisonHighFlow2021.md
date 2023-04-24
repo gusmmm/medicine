@@ -10,6 +10,7 @@ tags:: #HFNC, [[deep sedation]], [[prone position]], #ERCP, [[gastroenterologic 
 	- ((643e4c93-cd4e-4832-b79d-f979a9cdefc8))
 - #sedation_protocol
 	- ((643e52bd-b491-4c2c-b80f-3ceded0045ad))
+- In conclusion, the results of the present study showed that, compared with the conventional nasal cannula, the HFNO system provides adequate oxygenation without procedure interruption in patients undergoing ERCP in the prone position.
 # data collected
 	- type:: hfnc-data
 	  hfnc-flow:: 50 
@@ -20,4 +21,5 @@ tags:: #HFNC, [[deep sedation]], [[prone position]], #ERCP, [[gastroenterologic 
 	  sedation:: [[propofol]], [[fentanil]]
 # conclusions
 	- ((643e54d2-587f-4a71-8be6-e44a6bf4c22e))
--
+	- ((644684ab-7562-41fe-aa70-64e77e17e802))
+	-

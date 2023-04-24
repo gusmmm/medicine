@@ -11,3 +11,23 @@ file-path:: ../assets/lee-man-jong-impact-of-high-flow-nasal-cannula_16818163897
   hl-page:: 2
   hl-color:: yellow
   id:: 643e7c07-810f-437c-a104-720c2880d285
+- prospective, randomized, comparative trial
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 644685eb-4001-48b8-adc6-f4b538efa093
+- Consecutive patients who were65 years or older were eligible if they were scheduled to undergo ERCP
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 64468606-3c77-4eda-bce2-ccdfe4f5ddfd
+- investigate the efficacy of oxygen supplementation with an HFNC on ERCP under propofol sedation in elderly patients. 
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: red
+  id:: 6446865d-6910-44bd-a443-4a820b7eabc7
+- HFNC can stably maintain oxygen saturation and prevent hypoxia during ERCP procedure
+  ls-type:: annotation
+  hl-page:: 6
+  hl-color:: yellow
+  id:: 64468664-0c07-4327-9588-aeb514ec3356

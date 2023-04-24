@@ -400,4 +400,4 @@
                           :page 5},
                :content {:text "Type of gastrointestinal endoscopy, no. (%)"},
                :properties {:color "red"}}],
- :extra {:page 6}}
+ :extra {:page 2}}

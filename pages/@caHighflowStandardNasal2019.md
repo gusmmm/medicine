@@ -4,6 +4,7 @@ study-type:: [[RCT]]
 author:: Riccio
 year:: 2019
 tags:: [[HFNC]], [[gastroenterologic procedure]], [[deep sedation]], [[obesity]]
+country:: [[USA]]
 
 - ![riccio-christina-a-high-flow-versus-standard-nasal.pdf](../assets/riccio-christina-a-high-flow-versus-standard-nasal_1681827654623_0.pdf)
 - #study_population

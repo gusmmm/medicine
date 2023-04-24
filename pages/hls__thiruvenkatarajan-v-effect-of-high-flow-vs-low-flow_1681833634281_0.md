@@ -36,3 +36,8 @@ file-path:: ../assets/thiruvenkatarajan-v-effect-of-high-flow-vs-low-flow_168183
   hl-page:: 7
   hl-color:: yellow
   id:: 643ec002-b37c-4f3a-915d-990c61125be2
+- fulfilling one of the following: ASA physical status 3 or higher; BMI > 30 kg.m-2; and known or suspected OSA based on STOP-BANG [26] score 3 or higher. 
+  ls-type:: annotation
+  hl-page:: 2
+  hl-color:: yellow
+  id:: 64469422-1d63-4de7-bacc-fd892de29576

@@ -5,11 +5,13 @@ study-type:: [[RCT]]
 author:: Thiruvenkatarajan
 year:: 2022
 tags:: [[obesity]], [[deep sedation]], [[HFNC]], [[gastroenterologic procedure]]
+country:: [[australia]]
 
 - ![thiruvenkatarajan-v-effect-of-high-flow-vs-low-flow.pdf](../assets/thiruvenkatarajan-v-effect-of-high-flow-vs-low-flow_1681833634281_0.pdf)
 - #australia
 - usou [[patients at risk of hypoxemia]]
 	- ((643ebf40-e34a-4d8a-a735-a7e938df4b17))
+	- [[ASA_status>2]] [[OSAHS]] [[BMI>30]]
 - #sedation_protocol
 	- usaram #TCI
 	- ((643ebf9f-4139-42e2-ab61-816c69d3f44b))

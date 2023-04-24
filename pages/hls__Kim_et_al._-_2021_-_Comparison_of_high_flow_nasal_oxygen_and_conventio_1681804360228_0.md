@@ -31,3 +31,8 @@ file-path:: ../assets/Kim_et_al._-_2021_-_Comparison_of_high_flow_nasal_oxygen_a
   hl-page:: 4
   hl-color:: yellow
   id:: 643e54d2-587f-4a71-8be6-e44a6bf4c22e
+- In conclusion, the results of the present study showed that, compared with the conventional nasal cannula, the HFNO system provides adequate oxygenation without procedure interruption in patients undergoing ERCP in the prone position.
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 644684ab-7562-41fe-aa70-64e77e17e802

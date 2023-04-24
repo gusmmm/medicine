@@ -4,10 +4,12 @@ study-type:: [[RCT]]
 author:: Be
 year:: 2022
 tags:: [[HFNC]], [[deep sedation]], [[gastroenterologic procedure]]
+country:: [[Australia]]
 
 - ![WJGE-14-777.pdf](../assets/WJGE-14-777_1681814668938_0.pdf)
 - usou um bucal especial [[Oxyguard]]
--
+- nao descrevem a maquina de alto fluxo
+	- high-flow oxygen rotameter
 # data collected
 	- type:: hfnc-data
 	  hfnc-flow:: 20
