@@ -1,10 +1,11 @@
-- /
-- type:: [[paper]]
-  name:: Anesthesia for digestive tract endoscopy
-  study-type:: [[review]] 
-  author:: Pardo
-  year:: 2022
-  tags:: [[gastroenterologic procedure]]
+type:: [[paper]]
+name:: Anesthesia for digestive tract endoscopy
+study-type:: [[review]] 
+author:: Pardo
+year:: 2022
+tags:: [[gastroenterologic procedure]]
+country:: [[France]]
+
 - ![pardo-emmanuel-anesthesia-for-digestive-tract.pdf](../assets/pardo-emmanuel-anesthesia-for-digestive-tract_1681998840803_0.pdf)
 - #HFNC
 	- ((64414474-9429-4d8a-a2d1-2bf06489d0bd))
