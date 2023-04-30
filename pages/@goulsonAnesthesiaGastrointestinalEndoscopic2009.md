@@ -11,6 +11,8 @@ tags:: [[gastroenterologic procedure]], [[sedation]]
 	- ((6447c44a-a3e8-4182-9347-15714d49e4a2))
 	- a patient’s history of failed sedation by non-anesthesia health care providers, substance abuse, or mental illness
 	- ((6447c64d-760b-455b-a056-e122b53dccc5))
+	- importante para o trabalho #importante
+	-
 	-
 # data collected
 # conclusions
